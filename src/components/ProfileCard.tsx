@@ -21,7 +21,7 @@ function ProfileCard({
   isLoading: boolean;
 }) {
   return (
-    <div className="text-center bg-slate-50 text-secondary-500 rounded-xl drop-shadow-lg  before:bg-card-pattern relative before:w-full before:h-[36%] before:absolute before:top-0 before:left-0 before:rounded-t-xl w-full max-w-sm z-10">
+    <div className="text-center bg-white text-secondary-500 rounded-xl drop-shadow-lg  before:bg-card-pattern relative before:w-full before:h-[36%] before:absolute before:top-0 before:left-0 before:rounded-t-xl w-full max-w-sm z-10">
       {isLoading && (
         <svg
           className="animate-spin h-5 w-5 mr-3 ..."
