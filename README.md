@@ -28,7 +28,7 @@ In addition to the challenge, I also fetched random user data from the [Random U
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-react-tailwindcss-Ys70fBplfB](https://www.frontendmentor.io/solutions/profile-card-component-react-tailwindcss-Ys70fBplfB)
 - Live Site URL: [https://michaellei-profile-card.netlify.app/](https://michaellei-profile-card.netlify.app/)
 
 ## My process
