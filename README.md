@@ -24,7 +24,7 @@ In addition to the challenge, I also fetched random user data from the [Random U
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/screenshot.jpg)
 
 ### Links
 
