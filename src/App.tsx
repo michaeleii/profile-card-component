@@ -16,8 +16,16 @@ const stats = [
   },
 ];
 
+const defaultProfile: Profile = {
+  name: "Victor Crest",
+  age: 26,
+  location: "London",
+  profileImage: "/image-victor.jpg",
+  stats,
+};
+
 function App() {
-  const [profile, setProfile] = useState<Profile>();
+  const [profile, setProfile] = useState<Profile>(defaultProfile);
   const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
     const controller = new AbortController();

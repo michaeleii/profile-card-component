@@ -29,7 +29,7 @@ In addition to the challenge, I also fetched random user data from the [Random U
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://michaellei-profile-card.netlify.app/](https://michaellei-profile-card.netlify.app/)
 
 ## My process
 
